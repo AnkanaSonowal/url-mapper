@@ -18,4 +18,4 @@ PostGre SQl is run using Docker image.
 Using Redis server kept tracked of redis cache getting added.
 separating the logic into various packages: model, DAO, Datasource, config, service,API
 
-![myimage-alt-tag](https://github.com/AnkanaSonowal/url-mapper/blob/main/Screenshot%202023-11-10%20at%203.02.51%20PM.png)
+
